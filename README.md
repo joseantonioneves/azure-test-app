@@ -4,7 +4,7 @@ Este código utiliza uma API backend em .NET 8.0 com autenticação Azure Entra 
 
 ## Estrutura do Projeto
 
-O projeto está organizado da seguinte forma:
+O código está organizado da seguinte forma:
 
 ```
 AzureTestApp/
