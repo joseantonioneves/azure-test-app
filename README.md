@@ -1,6 +1,6 @@
 # AzureTestApp - Teste: Projeto .NET 8.0 com Azure Entra ID e React
 
-Este projeto é uma aplicação web que utiliza uma API backend em .NET 8.0 com autenticação Azure Entra ID e um frontend em React. O objetivo é exibir informações do usuário autenticado e do tenant, como nome, ID do tenant, tentativas de login recentes, usuários e grupos do tenant.
+Este código utiliza uma API backend em .NET 8.0 com autenticação Azure Entra ID e um frontend em React. O objetivo é exibir informações do usuário autenticado e do tenant, como nome, ID do tenant, tentativas de login recentes, usuários e grupos do tenant.
 
 ## Estrutura do Projeto
 
